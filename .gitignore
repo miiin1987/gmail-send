@@ -1,6 +1,11 @@
 # Google OAuth 認証情報（絶対にコミットしないこと）
 credentials.json
 token.json
+*.json
+
+# 環境変数ファイル
+.env
+.env.*
 
 # Python
 __pycache__/
